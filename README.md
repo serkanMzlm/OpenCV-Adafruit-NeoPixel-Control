@@ -1,0 +1,1 @@
+# Adafruit NeoPixel control with OpenCV
