@@ -11,3 +11,4 @@ Using Python with OpenCV, the project allows users to select regions of interest
 - pyserial
 - mediapipe
 
+[test.webm](https://github.com/serkanMzlm/OpenCV-Adafruit-NeoPixel-Control/assets/74418302/920a2d29-a7f0-4368-b6fe-7269e8ea4b9a)
